@@ -11,6 +11,7 @@
     </style>
   </head>
   <body>
+    testphp
     <?php
       $text_type = $_POST[ 'text_type' ];
       $left_txt = $_POST[ 'left_txt' ];
